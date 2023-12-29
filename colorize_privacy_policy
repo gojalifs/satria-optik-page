@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <style>
+    body {
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1em;
+}
+
+section {
+  margin-bottom: 10px;
+}
+
+footer {
+  background-color: #fff;
+  padding: 10px;
+}
+
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Privacy Policy</h1>
+    <h2>Aplikasi Tes Buta Warna</h2>
+    <h3>Versi 1.0</h3>
+    <h4>1 Januari 2024</h4>
+  </header>
+
+  <main>
+    <section>
+      <h2>Pengantar</h2>
+      <p>Aplikasi Tes Buta Warna adalah aplikasi yang digunakan untuk melakukan tes buta warna dengan metode Ishihara. Aplikasi ini tidak mengumpulkan data apapun dari penggunanya.</p>
+    </section>
+
+    <section>
+      <h2>Data yang Dikumpulkan</h2>
+      <p>Aplikasi Tes Buta Warna tidak mengumpulkan data apapun dari penggunanya.</p>
+    </section>
+
+    <section>
+      <h2>Tujuan Pengumpulan Data</h2>
+      <p>Aplikasi Tes Buta Warna tidak mengumpulkan data apapun, sehingga tidak ada tujuan pengumpulan data.</p>
+    </section>
+
+    <section>
+      <h2>Pembagian Data</h2>
+      <p>Aplikasi Tes Buta Warna tidak membagikan data apapun ke pihak ketiga.</p>
+    </section>
+
+    <section>
+      <h2>Keamanan Data</h2>
+      <p>Aplikasi Tes Buta Warna menggunakan teknologi keamanan yang memadai untuk melindungi data pengguna.</p>
+    </section>
+
+    <section>
+      <h2>Hak Pengguna</h2>
+      <p>Pengguna memiliki hak untuk mengakses, memperbarui, dan menghapus data pribadi mereka.</p>
+    </section>
+
+    <section>
+      <h2>Perubahan Privacy Policy</h2>
+      <p>Privacy Policy ini dapat berubah sewaktu-waktu. Perubahan akan dipublikasikan di halaman ini.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Copyright &copy; 2023</p>
+  </footer>
+</body>
+</html>
